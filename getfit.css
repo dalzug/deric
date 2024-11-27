@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+button {
+  border: none;
+  margin-left: 30px;
+}
+.image {
+  width: 300px;
+  object-fit: cover;
+  display: inline-block;
+}
+.clubs {
+  display: block;
+}
+.clubtitle {
+  font-family: Robotp, Arial;
+  font-size: 16px;
+}
+.heading1 {
+  text-align: center;
+}
+.button-container {
+  text-align: center;
+}
+.hearus:after {
+  display: inline-block;
+
+}
